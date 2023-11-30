@@ -1,0 +1,167 @@
+[
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/4545092/pexels-photo-4545092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/1727415/pexels-photo-1727415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/2085529/pexels-photo-2085529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/1128784/pexels-photo-1128784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/265940/pexels-photo-265940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/2970287/pexels-photo-2970287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/916344/pexels-photo-916344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/1161372/pexels-photo-1161372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "wedding",
+        "imgUrl": "https://images.pexels.com/photos/931178/pexels-photo-931178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1887792/pexels-photo-1887792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1602842/pexels-photo-1602842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1182687/pexels-photo-1182687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1558916/pexels-photo-1558916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1547813/pexels-photo-1547813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "red",
+        "imgUrl": "https://images.pexels.com/photos/1821721/pexels-photo-1821721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/1978126/pexels-photo-1978126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/752718/pexels-photo-752718.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/3540375/pexels-photo-3540375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/1726779/pexels-photo-1726779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/2456348/pexels-photo-2456348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "winter",
+        "imgUrl": "https://images.pexels.com/photos/954713/pexels-photo-954713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/1940041/pexels-photo-1940041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/615606/pexels-photo-615606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/1940038/pexels-photo-1940038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/1559393/pexels-photo-1559393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/1317843/pexels-photo-1317843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/1544413/pexels-photo-1544413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "village",
+        "imgUrl": "https://images.pexels.com/photos/5745812/pexels-photo-5745812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/19221481/pexels-photo-19221481/free-photo-of-a-black-and-white-photo-of-a-table-and-chairs-on-a-pier.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/1793525/pexels-photo-1793525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/707676/pexels-photo-707676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/910616/pexels-photo-910616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/953129/pexels-photo-953129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "whiteBlack",
+        "imgUrl": "https://images.pexels.com/photos/1020017/pexels-photo-1020017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/4365100/pexels-photo-4365100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/7317598/pexels-photo-7317598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/2079666/pexels-photo-2079666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/987984/pexels-photo-987984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/19129994/pexels-photo-19129994/free-photo-of-dolmabahce-palace-in-istanbul.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/7500045/pexels-photo-7500045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "category": "istanbul",
+        "imgUrl": "https://images.pexels.com/photos/4652002/pexels-photo-4652002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+    
+]
